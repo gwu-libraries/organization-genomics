@@ -38,6 +38,8 @@ What kinds of data and information have you generated before you sent your DNA/R
 Types of files and information you have generated:
 
 - Spreadsheet or tabular data with the data from your experiment and whatever you were measuring for your study.
+- Relational database organizing the data from your experiment.
+- Data dictionaries for all collected data.
 - Lab notebook notes about how you conducted those experiments.
 - Spreadsheet or tabular data about the samples you sent off for sequencing. Sequencing centers often have a particular format they need with the name of the sample, DNA concentration and other information.
 - Lab notebook notes about how you prepared the DNA/RNA for sequencing and what type of sequencing you're doing, e.g. paired end Illumina HiSeq.
@@ -146,6 +148,7 @@ Tools like [OpenRefine](https://www.datacarpentry.org/OpenRefine-ecology-lesson/
 
 - Metadata is key for you and others to be able to work with your data.
 - Tabular data needs to be structured to be able to work with it effectively.
+- Consider using a structured relational database instead of spreadsheet for a more thoroughly documented data structure.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
